@@ -1,0 +1,7 @@
+# client_secrets.json should be downloaded from the Google API console.
+client_config_file: client_secrets.json
+
+# Credentials for this client instance to access Google Drive.
+save_credentials: True
+save_credentials_backend: file
+save_credentials_file: credentials.json
